@@ -1,0 +1,6 @@
+
+#Ignore all jsons
+*.json
+
+# Ignore the node_modules/ directory
+node_modules/
