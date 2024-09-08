@@ -27,33 +27,6 @@ Table of Contents
   • Responsive design for various screen sizes
 
 
-⦿ Usage:
-
-  • Chat Interface
-  
-  Type a prompt in the input field at the bottom of the screen and press Enter or click the send button.
-  Click on any of the suggestion cards to quickly input a predefined prompt.
-  The chat interface will show the user's message and generate a response using the API.
-  • Theme Switching
-  
-  Toggle between dark and light mode by clicking the light/dark mode button in the typing area.
-  • Local Storage
-
-  The chat history is saved in local storage and will be restored on page reload.
-  To clear the chat history, click the delete button in the typing area and confirm the action.
-  Project Structure:
-  
-  • Icons/: Contains the favicon for the project.
-  
-  • images/: Contains images used in the chat interface.
-  
-  • script.js: Contains the JavaScript code for the project.
-  
-  • style.css: Contains the CSS code for the project.
-
-  • index.html: The main HTML file for the project.
-
-
 ⦿ API Configuration:
 
   The project uses the Google Generative Language API to generate chat responses. To set up the API:
@@ -69,6 +42,37 @@ Table of Contents
       "API_URL": "https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent"
       
     }
+
+
+⦿ Usage:
+
+  • Chat Interface
+  
+  Type a prompt in the input field at the bottom of the screen and press Enter or click the send button.
+  Click on any of the suggestion cards to quickly input a predefined prompt.
+  The chat interface will show the user's message and generate a response using the API.
+  
+  • Theme Switching
+  
+  Toggle between dark and light mode by clicking the light/dark mode button in the typing area.
+  
+  • Local Storage
+
+  The chat history is saved in local storage and will be restored on page reload.
+  To clear the chat history, click the delete button in the typing area and confirm the action.
+  
+  
+⦿ Project Structure:
+  
+  • Icons/: Contains the favicon for the project.
+  
+  • images/: Contains images used in the chat interface.
+  
+  • script.js: Contains the JavaScript code for the project.
+  
+  • style.css: Contains the CSS code for the project.
+
+  • index.html: The main HTML file for the project.
 
   
 ⦿ Customization:
