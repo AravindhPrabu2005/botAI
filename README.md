@@ -54,10 +54,14 @@ API Configuration:
 
 The project uses the Google Generative Language API to generate chat responses. To set up the API:
 
-• Obtain your own API key from Google Cloud (Google AI for Developer). 
+• Obtain your own API key from Google Cloud (Google AI for Developer).
 
-• Replace the placeholder API_KEY in script.js with your actual API key: const API_KEY = "YOUR_API_KEY_HERE"; const API_URL = "https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent";
-
+• Create a config.json file in your local repository and replace it by 
+  {
+    "API_KEY": "YOUR_API_KEY_HERE",
+    "API_URL": "https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent"
+  }
+  
 Customization:
 
 • Styles: Modify the style.css file to customize the look and feel of the chat interface.
