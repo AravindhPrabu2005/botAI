@@ -6,7 +6,10 @@ Table of Contents
 
 Demo:
 
-Check out a live demo of the project here. https://www.linkedin.com/posts/neeharika-saha-970879289_webdevelopment-html-css-activity-7238075564647968768-zLHf
+Check out a live demo of the project here:
+
+https://www.linkedin.com/posts/neeharika-saha-970879289_webdevelopment-html-css-activity-7238075564647968768-zLHf
+
 
 Features:
 
@@ -23,6 +26,7 @@ Features:
 • API integration for generating chat responses
 
 • Responsive design for various screen sizes
+
 
 Usage:
 
@@ -50,6 +54,7 @@ Project Structure:
 
 • index.html: The main HTML file for the project.
 
+
 API Configuration:
 
 The project uses the Google Generative Language API to generate chat responses. To set up the API:
@@ -65,12 +70,14 @@ The project uses the Google Generative Language API to generate chat responses. 
     "API_URL": "https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent"
     
   }
+
   
 Customization:
 
 • Styles: Modify the style.css file to customize the look and feel of the chat interface.
 
 • JavaScript: Modify the script.js file to add or change functionalities, such as adding more interactive features or modifying the chat behavior.
+
 
 License:
 
