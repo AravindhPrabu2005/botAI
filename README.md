@@ -57,9 +57,13 @@ The project uses the Google Generative Language API to generate chat responses. 
 • Obtain your own API key from Google Cloud (Google AI for Developer).
 
 • Create a config.json file in your local repository and replace it by 
+
   {
+  
     "API_KEY": "YOUR_API_KEY_HERE",
+    
     "API_URL": "https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent"
+    
   }
   
 Customization:
