@@ -6,7 +6,7 @@ Table of Contents
 
 Demo:
 
-Check out a live demo of the project here. https://github.dev/Neeharika-Saha/GeminiClone
+Check out a live demo of the project here. https://www.linkedin.com/posts/neeharika-saha-970879289_webdevelopment-html-css-activity-7238075564647968768-zLHf
 
 Features:
 
