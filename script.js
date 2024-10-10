@@ -1,4 +1,4 @@
-//require('dotenv').config();
+
 
 const typingForm = window.document.querySelector(".typing-form");
 const chatList = document.querySelector(".chat-list");
