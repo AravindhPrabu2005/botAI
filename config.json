@@ -1,4 +1,4 @@
 {
-    "API_KEY": "AIzaSyBQwnnm9fiRNkYOB329uzQREbY9FjdwORg",
+    "API_KEY": "AIzaSyBkL0DhngMWIxsWv-OgYqqHu-nuFs3_Qow",
     "API_URL": "https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent"
 }
